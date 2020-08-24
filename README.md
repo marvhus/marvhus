@@ -26,11 +26,11 @@ the website is for a group in minecraft
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting some kills on hypixel duels](https://www.youtube.com/watch?v=3emq02B-UJg)
 - [Me being bad at Crystal PVP](https://www.youtube.com/watch?v=LZgu2RGn1zM)
 - [Getting on nether roof | Minecraft 1.12.2](https://www.youtube.com/watch?v=1jev2H54vj8)
 - [Portal - 11 AFH](https://www.youtube.com/watch?v=P1NOMK2yAig)
 - [2B2T is the best server](https://www.youtube.com/watch?v=HgdrqT-bPiY)
-- [Portal ABH](https://www.youtube.com/watch?v=o0fFfp-mkSo)
 <!-- YOUTUBE:END -->
 
 <br />
