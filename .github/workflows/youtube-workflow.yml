@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMzOvZWrtzjLQxfWt_EzXw, https://www.youtube.com/feeds/videos.xml?channel_id=https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg, https://www.youtube.com/channel/UCLnyLVNDcrila0tTQcn4_Gw"
+          # marvhus, PurpleGuy
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMzOvZWrtzjLQxfWt_EzXw, https://www.youtube.com/feeds/videos.xml?channel_id=UCLnyLVNDcrila0tTQcn4_Gw"
