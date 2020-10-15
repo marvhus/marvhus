@@ -17,7 +17,7 @@ Its a Python project ive made where you tell it an Among Us map and it will tell
 ### Connect with me
 - marvhus [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][marvhus]
 - PurpleGuy [<img align="left" alt="PurpleGuy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][PurpleGuy]
-- MathHus137 [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+- MartHus137 [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
 
 <br />
 
