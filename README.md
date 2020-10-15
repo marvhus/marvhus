@@ -18,8 +18,6 @@ Its a Python project ive made where you tell it an Among Us map and it will tell
 [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][marvhus]
 [<img align="left" alt="PurpleGuy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][PurpleGuy]
 [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="MartHus137 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][MartHus137]
-[<img align="left" alt="marvhus.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -40,8 +38,6 @@ Its a Python project ive made where you tell it an Among Us map and it will tell
 
 [![marvhus github stats](https://github-readme-stats.vercel.app/api?username=marvhus&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://marvhus.github.io/
 [marvhus]: https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw
-[MartHus137]: https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg
 [twitch]: https://twitch.tv/MartHus137
-[PutrpleGuy]: https://www.youtube.com/channel/UCLnyLVNDcrila0tTQcn4_Gw
+[PurpleGuy]: https://www.youtube.com/channel/UCLnyLVNDcrila0tTQcn4_Gw
