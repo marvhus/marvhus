@@ -5,9 +5,18 @@
 #
 
 ## I`m a Developer, a Gamer, and a human being!
-- Im curently working on a [Project](https://github.com/marvhus/AmongUs-Map-Path-Generator),
-Its a Python project ive made where you tell it an Among Us map and it will tell you rooms in those maps to go to and that wil help you learn the maps.
-- Im curently learning Java, HTML, CSS JavaScript, Python and soon im going to learn SQL and PHP
+- Im curently working on a [Project](https://github.com/marvhus/Simple-2D-Console-Movement-System),
+Its a Python project im making that is a simple 2d topdown game idea in a terminal/console/cmd
+
+<br />
+
+I am not teh best developer but i know some programing languages. here are some of them:
+- Python
+- Java
+- Html
+- CSS
+- JavaScript
+- Java
 
 
 <br />
