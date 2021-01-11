@@ -26,7 +26,7 @@ I am not the best developer but i know some programing languages. Here are the o
 ### Connect with me
 - marvhus [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][marvhus]
 - PurpleGuy [<img align="left" alt="PurpleGuy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][PurpleGuy]
-- MartHus137 [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+- mart_hus [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -48,5 +48,5 @@ I am not the best developer but i know some programing languages. Here are the o
 [![marvhus github stats](https://github-readme-stats.vercel.app/api?username=marvhus&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [marvhus]: https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw
-[twitch]: https://twitch.tv/MartHus137
+[twitch]: https://twitch.tv/mart_hus
 [PurpleGuy]: https://www.youtube.com/channel/UCLnyLVNDcrila0tTQcn4_Gw
