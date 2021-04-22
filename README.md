@@ -4,7 +4,7 @@
 
 #
 
-## I`m a Developer, a Gamer, and a human being!
+## I`m a Developer, a Gamer, Game Developer in my spare time, and a human being!
 - Im curently working on a [Project](https://github.com/marvhus/Simple-2D-Console-Movement-System),
 Its a Python project im making that is a simple 2d topdown game idea in a terminal/console/cmd
 
@@ -16,7 +16,9 @@ I am not the best developer but i know some programing languages. Here are the o
 - Html
 - CSS
 - JavaScript
-- Java
+- C#
+- C++
+- C
 
 
 <br />
