@@ -26,8 +26,9 @@ I am not the best developer but i know some programing languages. Here are the o
 #
 
 ### Connect with me
-- mart_hus [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][mart_hus]
-- mart_hus [<img align="left" alt="MartHus137 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+- mart_hus [<img align="left" alt="mart_hus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+- mart_hus [<img align="left" alt="mart_hus | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+- mart_hus [<img align="left" alt="mart_hus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />[twitter]
 
 <br />
 
@@ -37,5 +38,6 @@ I am not the best developer but i know some programing languages. Here are the o
 
 [![marvhus github stats](https://github-readme-stats.vercel.app/api?username=marvhus&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[mart_hus]: https://www.youtube.com/channel/UCY8Onta2dbjGBumM7EiTcuA
+[youtube]: https://www.youtube.com/channel/UCY8Onta2dbjGBumM7EiTcuA
 [twitch]: https://twitch.tv/mart_hus
+[twitter]: https://twitter.com/mart_hus
