@@ -26,9 +26,9 @@ I am not the best developer but i know some programing languages. Here are the o
 #
 
 ### Connect with me
-- mart_hus [<img align="left" alt="mart_hus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-- mart_hus [<img align="left" alt="mart_hus | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
-- mart_hus [<img align="left" alt="mart_hus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />[twitter]
+- mart_hus [<img align="left"  alt="mart_hus | YouTube"  width="22px"   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"    />][youtube]
+- mart_hus [<img align="left"  alt="mart_hus | Twitch"   width="22px"   src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg"  />][twitch]
+- mart_hus [<img align="left"  alt="mart_hus | Twitter"  width="22px"   src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />[twitter]
 
 <br />
 
