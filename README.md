@@ -33,13 +33,7 @@ I am not the best developer but i know some programing languages. Here are the o
 
 #
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 <br />
-
-#
 
 [![marvhus github stats](https://github-readme-stats.vercel.app/api?username=marvhus&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
