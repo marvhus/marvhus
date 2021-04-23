@@ -10,7 +10,8 @@ Its a Python project im making that is a simple 2d topdown game idea in a termin
 
 <br />
 
-I am not the best developer but i know some programing languages. Here are the ones i know (some am I good at, and some am I not so good at):
+I am not the best developer but i know some programing languages. 
+Here are the ones i know (some am I good at, and some am I not so good at):
 - Python
 - Java
 - Html
