@@ -1,4 +1,4 @@
-### Hi there im marvhus - aka Martin 👋
+### Hi there im Martin - aka marvhus 👋
 
 <br />
 
