@@ -19,6 +19,7 @@ I am not the best developer but i know some programing languages. Here are the o
 - C#
 - C++
 - C
+- SQL
 
 
 <br />
