@@ -5,8 +5,15 @@
 #
 
 ## I`m a Developer, a Gamer, Game Developer in my spare time, and a human being!
-- Im curently working on a [Project](https://github.com/marvhus/Simple-2D-Console-Movement-System),
-Its a Python project im making that is a simple 2d topdown game idea in a terminal/console/cmd
+- I just finished a [project](https://github.com/marvhus/Consilio),
+Its a website I made for a school project.
+
+I also have a few projects I am working on in my spare time, here are some of them:
+- [C++ ascii art game](https://github.com/marvhus/CPP_ASCII_art_game)
+- [JS canvas game](https://github.com/marvhus/JS_CanvasGame)
+- [BeesCombat](https://github.com/marvhus/BeesCombat)
+
+But I also have some projects im messing around with that I have not uploaded to github yet.
 
 <br />
 
