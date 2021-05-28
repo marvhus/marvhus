@@ -5,7 +5,8 @@
 #
 
 ## I`m a Developer, a Gamer, Game Developer in my spare time, and a human being!
-- I just finished a [project](https://github.com/marvhus/Consilio),
+
+I just finished a [project](https://github.com/marvhus/Consilio),
 Its a website I made for a school project.
 
 I also have a few projects I am working on in my spare time, here are some of them:
