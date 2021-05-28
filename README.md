@@ -20,7 +20,7 @@ But I also have some projects im messing around with that I have not uploaded to
 
 I am not the best developer but i know some programing languages.<br/>
 Here are the ones i know (some of them I am good at, and some I am not so good at):
-- Python
+- [Python](Python_projects.md)
 - Java
 - Html
 - CSS
