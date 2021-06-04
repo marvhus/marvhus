@@ -1,2 +1,16 @@
 [back](README.md)
 # HTML, CSS, and JavaScript projects
+
+[Consilio](https://github.com/marvhus/Consilio)
+[marvhus.github.io](https://github.com/marvhus/marvhus.github.io)
+[MICRO:BIT Reaction time](https://github.com/marvhus/MIRCROBIT_reaction_time)
+[MICRO:BIT compass](https://github.com/marvhus/MIRCROBIT_compass)
+[MICRO:BIT rock paper scisors](https://github.com/marvhus/MIRCROBIT_rock_paper_scisors)
+[MICRO:BIT oracle](https://github.com/marvhus/MIRCOBIT_oracle)
+[MICRO:BIT step counter](https://github.com/marvhus/step_counter)
+[MICRO:BIT Text](https://github.com/marvhus/MICROBIT_Text)
+[JS Canvas Game](https://github.com/marvhus/JS_CanvasGame)
+[JS FizzBuzz](https://github.com/marvhus/JS_FizzBuzz)
+[Discord Goose Bot](https://github.com/marvhus/GooseBot)
+[JS AmoungUs Path Generator](https://github.com/marvhus/JS_AmongUs_PathGenerator)
+[JS Snake](https://github.com/marvhus/JSSnake)
