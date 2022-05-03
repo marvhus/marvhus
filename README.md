@@ -22,11 +22,11 @@
 </a>
 <!-- This is for the stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marvhus&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=marvhus&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000"">
 </a>
 <!-- This is for the content-written -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvhus&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvhus&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 
 <p align="center">
 <i>Note that these stats may be off because of libraries used</i>
