@@ -17,6 +17,7 @@
 
 ### Streak && Stats.
 <!-- This is for the fire-streak -->
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=marvhus&theme=dark&currStreakNum=CC6818&fire=CC2424&currStreakLabel=888888&dates=FFFFFF&background=000000&ring=FFFFFF&stroke=DD2727&sideNums=FFFFFF&sideLabels=888888&border=FFFFFF">
 </a>
 <!-- This is for the stats -->
