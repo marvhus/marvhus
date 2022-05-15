@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I+am+a+developer...;I+am+a+student...;I+am+a+game+dev...;I+am+a+Linux+user...;I+am+a+CyberSec+entusiast...;I+am+Mart...)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+developer;I+am+a+student;I+am+a+game+dev;I+am+a+Linux+user;I+am+a+CyberSec+entusiast;I+am+Mart+|+marvhus&font=Fira%20Code&center=true&width=500&height=200">
+</p>
 
 <body>
 
