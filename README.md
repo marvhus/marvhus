@@ -6,12 +6,8 @@
 
 ### Introduction.
 <p align="center">
-  <p><i>I'm a Programmer, Student, Game Dev, Artist, Cybersecurity enthusiast...
+  <p><i>I'm a Programmer, Game Dev, Artist, CyberSec enthusiast...
   Well thats about all I have to say about me for now.</i>
-
-### Usual team.
-<p align="center">
-  <p><i>Writing soon.</i>
 
 <!-- Divider -->
   <p align="center">
