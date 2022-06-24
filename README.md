@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvhus&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 
 <p align="center">
-<i>Note that these stats may be off because of libraries used</i>
+<i>Note that these stats may be off because of libraries used or configs</i>
 </a>
 </p>
 <!-- Divider -->
