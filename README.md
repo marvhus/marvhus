@@ -10,6 +10,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=marvhus&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000"">
 </p>
 
+<!-- Code Wars -->
+<p align="center">
+<h1> Code Wars </h1>
+<img src="https://www.codewars.com/users/marvhus/badges/large">
+</p>
+
+
 <!-- languages -->
 <p align="center">
 <h1> Languages </h1>
