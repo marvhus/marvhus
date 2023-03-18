@@ -7,7 +7,7 @@
 <!-- stats -->
 <p align="center">
 <h1> Stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=marvhus&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000"">
+<img src="https://github-readme-stats.vercel.app/api?username=marvhus&count_private=true&show_icons=true&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 </p>
 
 <!-- Code Wars -->
@@ -15,8 +15,13 @@
 <h1> Code Wars </h1>
 <img src="https://www.codewars.com/users/marvhus/badges/large">
 </p>
-
-
+                                                              
+<!-- Free Software Foundation -->                                                              
+<p align="center">
+<h1> Free Software Foundation </h1>                 
+<img src="https://static.fsf.org/nosvn/associate/crm/6024268.png">
+</p>
+                                                                 
 <!-- languages -->
 <p align="center">
 <h1> Languages </h1>
