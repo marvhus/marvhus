@@ -28,3 +28,6 @@
 <i>Note that these stats may be a bit high, <br> this could be caused by <br> libraries I use, or configs I have</i>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvhus&title_color=ffffff&icon_color=CC2424&text_color=888888FF&bg_color=000000">
 </p>
+
+<!-- Codeberg -->
+You can also see some of my projects on [Codeberg](https://codeberg.org/marvhus)
