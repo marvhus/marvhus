@@ -1,16 +1,15 @@
-### GitHub Stats
-<a href='https://github.com/marvhus/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/marvhus/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/marvhus/github-stats-transparent/output/generated/languages.svg)
-  
+### GitHub Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=marvhus&theme=gruvbox&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvhus&theme=gruvbox&layout=compact&langs_count=10&card_width=350" />
 </a>
 
-
 ### Other Stuff
-![Codewars Badge](https://www.codewars.com/users/marvhus/badges/large)
-![FSF Badge](https://static.fsf.org/nosvn/associate/crm/6024268.png)
-                                                                 
+[![Codewars Badge](https://www.codewars.com/users/marvhus/badges/large)](https://www.codewars.com/users/marvhus)
+[![FSF Badge](https://static.fsf.org/nosvn/associate/crm/6024268.png)](https://www.fsf.org/)
+
 ___
 
 <!-- Codeberg -->
