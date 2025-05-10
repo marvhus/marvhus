@@ -1,7 +1,7 @@
 ### GitHub Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=marvhus&theme=gruvbox&show_icons=true">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvhus&theme=gruvbox&layout=compact&langs_count=10&card_width=515">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvhus&theme=gruvbox&layout=compact&langs_count=20&card_width=515">
 </a>
 
 ### Other Stuff
